@@ -1,4 +1,6 @@
-# Task 02 - Data Cleaning and Preparation
+# SkillCraft Technology Internship - Task 02
+
+## Data Cleaning and Preparation using Python & Pandas
 
 ## Objective
 This project demonstrates data cleaning and preparation using Python and Pandas.
